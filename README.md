@@ -24,3 +24,5 @@
 ## if we want frontend and backend at a time without two terminals
  - npm i -D concurrently
  - pacagejson --  "dev": "concurrently \"npm run server\" \"npm run client\""
+
+ ## npm i react-bootstrap react-icons
